@@ -1,0 +1,15 @@
+{
+  "name": "klarna",
+  "version": "1.0.0",
+  "description": "test moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "avicloud720",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
